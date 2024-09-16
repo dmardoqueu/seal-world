@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5c7912dc-b3e4-489f-bf2d-00d329965c4e)![image](https://github.com/user-attachments/assets/3127ac98-0b16-471a-bc7c-3ad738616ab8)![image](https://github.com/user-attachments/assets/beeb0c75-fa7b-4c21-b05c-ebaf14827bc2)# Seal World 🦭
+# Seal World 🦭
 
 **Bem-vindo ao Seal World** - um site que explora o fascinante mundo das focas! Este projeto fornece uma visão envolvente e educativa sobre essas incríveis criaturas aquáticas, apresentando suas habilidades de natação, estilo de vida e muito mais.
 
@@ -43,6 +43,7 @@ O projeto "Seal World" é uma página web que utiliza HTML5, CSS3 e vídeo para 
 - **Google Fonts**: Tipografia customizada para dar um estilo agradável ao conteúdo.
 
 ## 🖼️ Capturas de Tela
+
 
 ![Screenshot da Hero Section](img/pexels-diana-4445229.jpg)
 
