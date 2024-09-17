@@ -44,10 +44,17 @@ O projeto "Seal World" é uma página web que utiliza HTML5, CSS3 e vídeo para 
 
 ## 🖼️ Capturas de Tela
 
-
-![Screenshot da Hero Section](img/pexels-diana-4445229.jpg)
-
-*Uma visão da seção inicial com o vídeo de fundo.*
+![screenshot1](screenshots/img1.jpg)
+#
+![screenshot2](screenshots/img2.jpg)
+#
+![screenshot3](screenshots/img3.jpg)
+#
+![screenshot4](screenshots/img4.jpg)
+#
+![screenshot5](screenshots/img5.jpg)
+#
+![screenshot6](screenshots/im6.jpg)
 
 ## 🧑‍💻 Como Rodar o Projeto Localmente
 
